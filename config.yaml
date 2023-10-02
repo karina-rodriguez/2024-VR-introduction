@@ -11,13 +11,13 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Lesson Title'
+title: 'Virtual Reality Systems Introduction'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2023-09-29'
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries'
+keywords: 'XR experiences, interactivity, computer graphics'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -33,7 +33,7 @@ source: 'https://github.com/karina-rodriguez/2023-introduction'
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: 'K.Rodriguez@brighton.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -58,17 +58,27 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - introduction.Rmd
+- lecturer.Rmd
+- definitions.Rmd
+- skills-and-knowledge.Rmd
+- computer-graphics.Rmd
+- intended-learning-objectives.Rmd
+- assumptions.Rmd
+- structure.Rmd
+- assessment.Rmd
+- resources.Rmd
+- final-year-projects.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
