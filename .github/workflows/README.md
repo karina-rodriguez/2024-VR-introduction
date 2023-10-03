@@ -196,3 +196,6 @@ pull request number for the next action
 
 Tiggered by `pr-close-signal.yaml`. This removes the temporary branch associated with
 the pull request (if it was created).
+
+
+[![DOI](https://zenodo.org/badge/699528491.svg)](https://zenodo.org/badge/latestdoi/699528491)
