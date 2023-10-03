@@ -5,6 +5,8 @@ exercises: 2
 ---
 ## Introduction
 
+![&copy; Melita - stock.adobe.com](fig/AdobeStock_459862700.jpeg){alt="Welcome"}
+
 :::::::::::::::::::::::::::::::::::::: questions 
 
 - What does this module covers?
