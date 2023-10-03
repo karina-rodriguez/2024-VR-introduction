@@ -12,5 +12,7 @@ Karina Rodriguez Echavarria: "Virtual Reality Systems - 2023: Introduction".
   author      = {"Rodriguez Echavarria", Karina},
   title       = {Virtual Reality Systems - 2023: Introduction},
   year        = {2023},
-  doi         = {10.12688/f1000research.3-62.v2}
+  doi         = {https://zenodo.org/badge/latestdoi/699528491}
 }
+
+[![DOI](https://zenodo.org/badge/699528491.svg)](https://zenodo.org/badge/latestdoi/699528491)
