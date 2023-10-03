@@ -1,8 +1,9 @@
 ---
-title: 'Welcome and introduction'
+title: 'Welcome'
 teaching: 10
 exercises: 2
 ---
+## Introduction
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
@@ -21,7 +22,6 @@ This session will introduce you to:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 

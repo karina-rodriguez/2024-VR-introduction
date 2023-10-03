@@ -8,9 +8,9 @@ exercises: 2
 
 ## Challenge 1: Let's look at definitions
 
-What is a Virtual Reality Systems?
-What is an Extended Reality (XR) System?
-Which techniques and technologies are relevant for these systems?
+- What is a Virtual Reality Systems?
+- What is an Extended Reality (XR) System?
+- Which techniques and technologies are relevant for these systems?
 
 :::::::::::::::::::::::: solution 
 
@@ -52,6 +52,7 @@ Knowledge and skills in this area will also open other job opportunities in rela
 
 Note many of these jobs also have as requirement to be familiar with
 [DevOps](https://www.atlassian.com/devops) methodologies for software development, including:
+
 - Source code management and build tools (e.g. Git)
 - Containerization platforms (e.g. Docker, Kubernetes)
 - Cloud DevOps tools (e.g. Google Cloud DevOps tools)
