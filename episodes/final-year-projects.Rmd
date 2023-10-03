@@ -35,6 +35,11 @@ Looking to supervise CI601 projects on:
 - Computer vision and graphics algorithms for 3D printing and broader applications in particular to Cultural Heritage
 
 
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- Various activities are available in parallel to the module
+should you wish to get further involved.
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 

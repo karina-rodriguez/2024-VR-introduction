@@ -35,4 +35,9 @@ to support the students' learning journey.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- This lesson is mostly an introduction to UoB VR Systems for 2023/2024 Ci606 module.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
 

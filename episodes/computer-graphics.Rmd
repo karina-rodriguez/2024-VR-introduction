@@ -29,5 +29,11 @@ Proceedings for papers:
   - [Building Augmented and Virtual Reality Experiences for Children with Visual Diversity](https://diglib.eg.org/handle/10.2312/cgvc20221175)
   - [Visualization and Graphics in Mixed Reality](https://diglib.eg.org/handle/10.2312/egt20211036)
   
+::::::::::::::::::::::::::::::::::::: keypoints 
 
+- Computer graphics is a well established domain. 
+- Look at the list of
+resources in this section to get an insight into the latest developments
+in this area.
+::::::::::::::::::::::::::::::::::::::::::::::::
 

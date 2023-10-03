@@ -2,4 +2,6 @@
 title: Instructor Notes
 ---
 
-This is a placeholder file. Please add content here.
+No instructor notes for this session.
+
+It is mostly an introduction to the module.

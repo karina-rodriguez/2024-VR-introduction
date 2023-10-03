@@ -5,7 +5,7 @@ exercises: 2
 ---
 
 
-## Module Specification - ILOs
+## Module Specification 
 
 ![&copy; Monster Ztudio - stock.adobe.com](fig/AdobeStock_478058985.jpeg){alt="Welcome"}
 
@@ -43,3 +43,8 @@ Practical skills for:
 - Transformations and other movement in 3D scenes
 
 
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- You will need to demonstrate three key skills when we assess the module.
+- This section introduces you to the [ILO](#module-specification) for the module.
+::::::::::::::::::::::::::::::::::::::::::::::::

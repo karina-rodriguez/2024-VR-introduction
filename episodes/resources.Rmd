@@ -65,3 +65,11 @@ Equipment:
   - Technical support team at the computer suite.
   - School office team will help you with everything to do with your course administration.
 
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- Resources, including reading material, software and equipment
+are available if you wish to use it.
+- You can also use your own development environment if you 
+wish to learn a specific one.
+
+::::::::::::::::::::::::::::::::::::::::::::::::

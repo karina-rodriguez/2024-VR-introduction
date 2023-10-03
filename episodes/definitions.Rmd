@@ -64,3 +64,14 @@ Note many of these jobs also have as requirement to be familiar with
 
 [^1]: S. S. Fisher, M. McGreevy, J. Humphries, and W. Robinett. 1987. Virtual environment display system. In Proceedings of the 1986 workshop on Interactive 3D graphics (I3D '86). Association for Computing Machinery, New York, NY, USA, 77–87. https://doi.org/10.1145/319120.319127
 
+
+
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- Virtual Reality Systems draw on knowledge and skills
+relevant to computer graphics.
+- This is a well established domain in computer science.
+- The development of systems in this domain draw on
+common practices of software engineering.
+::::::::::::::::::::::::::::::::::::::::::::::::
+

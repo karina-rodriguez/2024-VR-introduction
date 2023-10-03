@@ -15,3 +15,10 @@ exercises: 2
 - You have a good understanding on basic maths concepts such as basic notation and algebra, trigonometry and vectors.
 - You have a good understanding on data structures.
 
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- For this module you will need a good level of understanding of software development,
+programming in object oriented language, data structures and medium-level of maths- mostly geometry.
+::::::::::::::::::::::::::::::::::::::::::::::::
+
+

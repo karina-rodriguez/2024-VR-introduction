@@ -27,3 +27,13 @@ Various leadership roles in the community:
 - Chair of the Steering Comittee, Eurographics Working group of Computer Graphics and Cultural Heritage
 - Member of the Editorial board and information Director for the [ACM Journal of Computing and Cultural Heritage (JOCCH)](https://jocch.acm.org/) 
 
+
+::::::::::::::::::::::::::::::::::::: keypoints 
+
+- I'll deliver this module focusing on my experience in the domain
+of computer graphics, their application to sectors
+such as Cultural Heritage 
+- I'll also drawing on projects, experiences and tools which
+myself and my team has developed/has access to.
+
+::::::::::::::::::::::::::::::::::::::::::::::::
