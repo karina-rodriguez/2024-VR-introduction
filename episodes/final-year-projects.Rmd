@@ -9,19 +9,19 @@ exercises: 2
 
 We are running a workshop online in conjunction with the [University of Universities](https://uou.ua.es). 
 
-The workshop offers the opportunity to work alongside students from other countries and other universities in the evolution of conceptual ideas for an augmented reality project which seeks to further connect us with the non-humans we share our spaces with. 
+The workshop offers the opportunity to work alongside architecture students from other countries and other universities. They will be working in the evolution of conceptual ideas for an augmented reality project which seeks to further connect us with the non-humans we share our spaces with. 
 
-The students are from architecture courses.
- 
-The workshop will consist of three sessions: 
+ The workshop will consist of three sessions: 
 
-- Session 1 (Friday 6th Oct 2023, 12:00): a short half hour introduction on , which also sets out the first task which is to be completed before the second session – this will be used to place the students into groups. 
-- Session 2 (Friday 13th 8:30 - 12:30): includes a discussion of task one, various talks from researchers on AI and AR,
+- Session 1 (Friday 6th Oct 2023, 12:00 - 12:30): a short half hour introduction on , which also sets out the first task which is to be completed before the second session – this will be used to place the students into groups. 
+- Session 2 (Friday 13th Oct 8:30 - 12:30): includes a discussion of task one, various talks from researchers on AI and AR,
 and time for working within the group of students they are assigned to on ideas for a project. 
-- Session 3 (Friday, 27th October)"
-The final session is on the following Friday, 27th October: involve a review of the project work – which will be a story board of the ideas for the project and final drawings.
+- Session 3 (Friday, 20th October, 8:30 - 12:30): involve a review of the project work – which will be a story board of the ideas for the project and final drawings. ** This might be a good one to attend if you only want to hear ideas from other students. **
 
 For more information, [see here](files/UOUSSInterweavings.pdf).
+
+If you want to participate, please let me know to send you more details.
+
  
 ## Final Year Projects
 
