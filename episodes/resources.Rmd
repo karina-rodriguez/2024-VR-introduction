@@ -7,7 +7,7 @@ exercises: 2
 ## For a successful result
 
 
-![&copy; Dirima- stock.adobe.com](fig/success.jpeg)
+![&copy; Dirima- stock.adobe.com](fig/success.jpeg){alt="image for success"}
 
 - Attend on the required days, and turn up on time.
 - Submit your coursework on time.
