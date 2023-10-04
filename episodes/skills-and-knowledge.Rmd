@@ -52,7 +52,7 @@ Even if you are not planning to work in the XR or the game industry, this module
 
 - You will gain knowledge which is specific to computer
 graphics.
-- This knolwedge and skills is transferable in terms of developing
+- This knowledge and skills is transferable in terms of developing
 systems which use multi-dimensional media and uses various visualisation
 and interaction hardware.
 - You will have freedom during the module to explore applications that are of your interest.
