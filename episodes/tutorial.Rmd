@@ -28,7 +28,7 @@ You can either focus on:
 1 - Look at graphic projects you might already have available, e.g. projects
 you might have done before in Unity and Unreal that you think you can build on.
 
-3 - Exploring the XR applications available on a platform, such as a VR platforms 
+2 - Exploring the XR applications available on a platform, such as a VR platforms 
 such as STEAM, Oculus Store,
 or a mobile app store: Google Play, etc.
 
