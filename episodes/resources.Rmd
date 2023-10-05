@@ -33,6 +33,7 @@ exercises: 2
 - [Lab for experimenting and developing VR applications.](https://blogs.brighton.ac.uk/csius/virtual-reality-laboratory/) 
 - Watts 623
 - HTC Vive, Virtualizer Elite 2 motion platform, and mixed reality headsets are available.
+- To book, please access this [link](https://pcbookings.brighton.ac.uk/cire/login.aspx?ProductPref=RR&reloginError=true)
 
 ## Immersive Learning Visualisation Suite
 - [Igloo front project 3D system](https://blogs.brighton.ac.uk/csius/advanced-immersive-learning-environment/)
