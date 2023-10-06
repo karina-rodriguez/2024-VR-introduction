@@ -16,7 +16,7 @@ exercises: 2
 
 ## Definitions
 
-In 1987, [computer scientists already developed](https://dl.acm.org/doi/10.1145/319120.319127) "head-mounted, wide-angle, stereoscopic display systems" which were controlled by an "operator position". "The system provides a multisensory, interactive display environment in which a user can virtually explore a 360-degree synthesized or remotely sensed environment and can viscerally interact with its components."[^1] [^2]
+In 1987, [computer scientists already developed](https://dl.acm.org/doi/10.1145/319120.319127) "head-mounted, wide-angle, stereoscopic display systems" which were controlled by an "operator position". "The system provides a multisensory, interactive display environment in which a user can virtually explore a 360-degree synthesized or remotely sensed environment and can viscerally interact with its components."[^1][^2]
 
 Based on this definition, we understand virtual reality as an 
 interface to computer graphics interactive environment.
