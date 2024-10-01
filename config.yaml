@@ -11,7 +11,7 @@
 carpentry: 'incubator'
 
 # Overall title for pages.
-title: 'Virtual Reality Systems - 2023: Introduction'
+title: 'VR Systems (2024-2025): Introduction'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2023-09-29'
@@ -21,13 +21,13 @@ keywords: 'XR experiences, interactivity, computer graphics'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
-life_cycle: 'pre-alpha'
+life_cycle: 'stable'
 
 # License of the lesson materials (recommended CC-BY 4.0)
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/karina-rodriguez/2023-introduction'
+source: 'https://github.com/karina-rodriguez/2024-VR-introduction'
 
 # Default branch of your lesson
 branch: 'main'
