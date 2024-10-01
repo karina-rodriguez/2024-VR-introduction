@@ -24,7 +24,11 @@ History and Theory:
 - Lighting in VR systems
 - Testing VR systems
 
-The assesement will be based in measuring your learning against the
+## Assessment
+These topics will be assessed with 
+100% practical [coursework]().
+
+The assessment will aim to measure your learning against the
 Intended Learning Objectives (ILO).
 
 ## Intended Learning Objectives (ILO)
@@ -38,5 +42,5 @@ On successful completion of the module the student will be able to:
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - You will need to demonstrate three key skills when we assess the module.
-- This section introduces you to the [ILO](#module-specification) for the module.
+
 ::::::::::::::::::::::::::::::::::::::::::::::::

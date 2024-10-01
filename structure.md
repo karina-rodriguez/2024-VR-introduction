@@ -25,9 +25,7 @@ Remember this is a level 6 module.
 
 
 
-## Assessment
 
-100% practical [coursework]().
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
