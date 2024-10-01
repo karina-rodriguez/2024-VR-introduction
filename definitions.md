@@ -4,53 +4,63 @@ teaching: 10
 exercises: 2
 ---
 
+
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-## Challenge 1: Let's look at definitions
+## Let's look at definitions
 
-- What is a Virtual Reality Systems?
-- What is an Extended Reality (XR) System?
-- Which techniques and technologies are relevant for these systems?
-
-:::::::::::::::::::::::: solution 
-
-## Definitions
-
-In 1987, [computer scientists already developed](https://dl.acm.org/doi/10.1145/319120.319127) "head-mounted, wide-angle, stereoscopic display systems" which were controlled by an "operator position". "The system provides a multisensory, interactive display environment in which a user can virtually explore a 360-degree synthesized or remotely sensed environment and can viscerally interact with its components."[^1][^2]
-
-Based on this definition, we understand virtual reality as an 
-interface to computer graphics interactive environment.
-
-Mixed reality introduces various levels in which the real-world
-mixes with the digital graphic system. From fully isolating the user from their
-surroundings to allowing them to interact with both worlds.
-
-All techniques relevant to software engineering, linked-data, computer
-graphics, and system design are relevant to the task of 
-building these systems.
-
+- [What are the key elements of a Virtual Reality Systems?](https://PollEv.com/free_text_polls/QvVXqjPKVVtMQFaAQbCch/respond)
 
 :::::::::::::::::::::::::::::::::
 
+## Definitions
+- What is a VR System?
+- What is an Extended Reality (XR) System?
+- Which techniques and technologies are relevant for these systems?
 
-:::::::::::::::::::::::::::::::::::::
 
+In 1987, [computer scientists developed](https://dl.acm.org/doi/10.1145/319120.319127) 
+"head-mounted, wide-angle, stereoscopic display systems" that were controlled by the user's position. 
+"The system provides a multisensory, interactive display environment in which a user can virtually explore a 360-degree synthesized or remotely sensed environment and can viscerally interact with its components."[^1][^2].
+
+This definition frames Virtual Reality Systems as interfaces to interactive, computer-generated environments.
+A Virtual Reality (VR) system immerses users in a fully simulated environment, 
+often experienced through devices like headsets, gloves, and motion controllers.
+
+Extended reality, on the other hand, introduces varying degrees of integration between the physical 
+world and digital environments. These systems range from fully immersing users in a virtual space to 
+enabling interaction with both the real and virtual worlds simultaneously.
+
+Developing these systems involves techniques from software engineering, 
+linked data, computer graphics, and system design, 
+making these disciplines essential to building immersive environments.
+
+::::::::::::::::::::::::::::::::::::: challenge 
+
+[What are your motivations for enrolling in this module? 
+How do you hope it will contribute to your personal, academic, or professional goals?](https://pollev.com/free_text_polls/QvVXqjPKVVtMQFaAQbCch/respond)
+
+:::::::::::::::::::::::::::::::::
+
+### Why learning VR/XR is important?
 
 Extended Reality (XR) Systems, including Virtual Reality (VR),
-Mixed Reality (MR)
-and Augmented Reality (AR), will continue to be
-additional interfaces to graphic systems beyond other available interfaces.
-Hence, their use will continue to permeate many jobs and industries.
+Mixed Reality (MR) and Augmented Reality (AR), provide a broader set of interactive 
+interfaces for graphical systems compared to traditional interfaces. 
+As a result, their adoption is expected to increasingly influence a wide range of 
+jobs and industries.
 
-See current example of jobs in this area: [Example jobs](https://uk.indeed.com/q-ar-vr-xr-jobs.html?vjk=4f2ca121ac893c5c)
+
+See current example of jobs in this area: [Example jobs](https://uk.indeed.com/jobs?q=%22virtual+reality%22&l=&from=searchOnDesktopSerp&vjk=edbccfef412e7ec7)
 
 Knowledge and skills in this area will also open other job opportunities in related areas:
 
-- Creative technologies
-- Art
-- Computer Graphics
+- Creative industries
+- Art / Design
+- Computer Graphics / Software Development
 
-Note many of these jobs also have as requirement to be familiar with
+
+Many of these jobs also have as requirement to be familiar with
 [DevOps](https://www.atlassian.com/devops) methodologies for software development, including:
 
 - Source code management and build tools (e.g. Git)
@@ -64,7 +74,7 @@ Note many of these jobs also have as requirement to be familiar with
 
 [^1]: S. S. Fisher, M. McGreevy, J. Humphries, and W. Robinett. 1987. Virtual environment display system. In Proceedings of the 1986 workshop on Interactive 3D graphics (I3D '86). Association for Computing Machinery, New York, NY, USA, 77–87. https://doi.org/10.1145/319120.319127
 
-[^2] John Barlow, Esther Dyson, Timothy Leary, William Bricken, Warren Robinett, Jaron Lanier, and Bob Jacobson. 1990. Hip, hype and hope—the three faces of virtual worlds (panel session). In ACM SIGGRAPH 90 Panel Proceedings (SIGGRAPH '90). Association for Computing Machinery, New York, NY, USA, 1001–1029. https://doi.org/10.1145/328750.328798
+[^2]: John Barlow, Esther Dyson, Timothy Leary, William Bricken, Warren Robinett, Jaron Lanier, and Bob Jacobson. 1990. Hip, hype and hope—the three faces of virtual worlds (panel session). In ACM SIGGRAPH 90 Panel Proceedings (SIGGRAPH '90). Association for Computing Machinery, New York, NY, USA, 1001–1029. https://doi.org/10.1145/328750.328798
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 

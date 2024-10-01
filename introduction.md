@@ -25,19 +25,19 @@ This session will introduce you to:
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+This lesson is an introduction to UoB VR Systems for 2024-2025 module.
+
+This module provides a framework within which students gain knowledge
+and practical experience of techniques and technologies employed 
+to develop a variety of virtual content and its interactions with the physical environment.
+
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-This lesson is mostly an introduction
-to the module
-and the various resources available
+This lesson is an introduction
+to the module and the various resources available
 to support the students' learning journey.
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::: keypoints 
-
-- This lesson is mostly an introduction to UoB VR Systems for 2023/2024 Ci606 module.
-
-::::::::::::::::::::::::::::::::::::::::::::::::
 
