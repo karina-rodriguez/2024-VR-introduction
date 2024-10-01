@@ -59,8 +59,6 @@ Equipment:
 ## Reading list
 - Most required resources will be given using the module material.
 - Other extra resources will be available in the [reading list](https://rl.talis.com/3/brighton/lists/A955CA97-DAD8-9EB2-CF10-BEABD1DED566.html).
-- [Godot Engine Education](https://godotengine.org/education)
-
 
 
 ## Asking for help
