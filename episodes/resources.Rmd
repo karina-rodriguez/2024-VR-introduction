@@ -33,9 +33,12 @@ exercises: 2
 
 ## Virtual Reality laboratory
 ![](https://bpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/9/5607/files/2023/01/UOB_VR_Suite_28NOV22_AW_015.jpg){alt="Lab"}
-- [Lab for experimenting and developing VR applications.](https://blogs.brighton.ac.uk/csius/virtual-reality-laboratory/) 
-- Watts 623. Please provide your card number details to enable access.
-- HTC Vive, Virtualizer Elite 2 motion platform, and mixed reality headsets are available.
+
+[Lab for experimenting and developing VR applications.](https://blogs.brighton.ac.uk/csius/virtual-reality-laboratory/) 
+
+Watts 623. Please provide your card number details to enable access.
+
+Incldues headsets: HTC Vive, Virtualizer Elite 2 motion platform, and mixed reality headsets are available.
 
 
 ## Immersive Learning Visualisation Suite
