@@ -21,16 +21,18 @@ lgorithms for creating, manipulating, and rendering spatial, immersive, and inte
 
 #### 3D modelling tool (Blender)[https://www.blender.org/]
 
-![&copy; Blender](https://upload.wikimedia.org/wikipedia/commons/8/8e/Blender_2.45_screenshot.jpg){alt="Blender"}
+![&copy; Blender](https://upload.wikimedia.org/wikipedia/commons/8/8e/Blender_2.45_screenshot.jpg){alt="Blender"width='200px'}
 
-#### Photogrammetry tools to generate 3D models from photographs, e.g. (Zephyr)[https://www.3dflow.net/3df-zephyr-photogrammetry-software/]
+#### Photogrammetry tools 
+
+  - To generate 3D models from photographs, e.g. [Zephyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/)
 
 #### Game engines:
   - [Godot](https://godotengine.org/). This game engine is free and open-source. It allows
   the game engine to be used on [web browser](https://editor.godotengine.org/releases/latest/), and is now available on the [Horizon Store for Meta Quest 3 & Meta Quest Pro](https://godotengine.org/article/godot-editor-horizon-store-early-access-release/)
   - [Unity](https://unity.com/)
 
-![Godot &copy;](https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg){alt="Godot"}
+![Godot &copy;](https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg){alt="Godot" width='200px'}
 
 #### Additional links
 
@@ -38,7 +40,7 @@ lgorithms for creating, manipulating, and rendering spatial, immersive, and inte
 - [Setting up XR (Version 4.3)](https://docs.godotengine.org/en/4.3/tutorials/xr/setting_up_xr.html)
 - [Deploying to Android (Version 4.3)](https://docs.godotengine.org/en/stable/tutorials/xr/deploying_to_android.html#setup0
 
-#### Web-based libraries 
+### Web-based libraries 
 
 ![Three.JS &copy;](https://upload.wikimedia.org/wikipedia/commons/3/3e/Three.js-code-example.jpg){alt="Three.JS"}
 
