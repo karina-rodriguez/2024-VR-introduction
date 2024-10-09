@@ -57,3 +57,14 @@ Don't forget to cite the paper, application or other reference; and provide a li
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+[Invitation](https://unibrightonac-my.sharepoint.com/:p:/g/personal/k_rodriguez_brighton_ac_uk/ESRKop_La_1Iqx40ZU_P4RIBrwlyiOZ4QBZN1PF-e-j75Q?e=36DoV7)
+
+
+## Posters
+
+- [Beat Saber](https://unibrightonac-my.sharepoint.com/:p:/r/personal/c_crook2_uni_brighton_ac_uk/Documents/cc1501_modules_3/CI606%20-%20Virtual%20Reality%20Systems/Lecture%202%20Presentation.pptx?d=we747fdb12fdd4086815e0a1cb325ddb5&csf=1&web=1&e=fvcSVZ)
+- [Atars](https://unibrightonac-my.sharepoint.com/personal/a_crane5_uni_brighton_ac_uk/_layouts/15/onedrive.aspx?e=5%3A8cdcff6efbaf4bf497f193abc4ec9600&sharingv2=true&fromShare=true&at=9&CID=03469dde%2D1352%2D41e6%2D8127%2D47265f446e6d&FolderCTID=0x012000CBDF1B06E44E2D4ABE4A34DEEB6A4E07&id=%2Fpersonal%2Fa%5Fcrane5%5Funi%5Fbrighton%5Fac%5Fuk%2FDocuments%2FYear3%2FXR%2Fatars%2Epdf&parent=%2Fpersonal%2Fa%5Fcrane5%5Funi%5Fbrighton%5Fac%5Fuk%2FDocuments%2FYear3%2FXR)
+- [Rumble](https://docs.google.com/presentation/d/1nJCm4R4mTudTYHcvL-f4K61kbBedyaEcMZQjU8wddlc/edit?usp=drivesdk)
+- [Head display](https://unibrightonac-my.sharepoint.com/:p:/r/personal/j_grace1_uni_brighton_ac_uk/Documents/Desktop/XR_Presentation_J_Grace_01.pptx?d=w963d4157f33a49eea0451642d79146a8&csf=1&web=1&e=druMF3)
+
