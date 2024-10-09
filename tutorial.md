@@ -65,4 +65,5 @@ Don't forget to cite the paper, application or other reference; and provide a li
 - [Rumble](https://docs.google.com/presentation/d/1nJCm4R4mTudTYHcvL-f4K61kbBedyaEcMZQjU8wddlc/edit?usp=drivesdk)
 - [Head display](https://unibrightonac-my.sharepoint.com/:p:/r/personal/j_grace1_uni_brighton_ac_uk/Documents/Desktop/XR_Presentation_J_Grace_01.pptx?d=w963d4157f33a49eea0451642d79146a8&csf=1&web=1&e=druMF3){:target="_blank"}
 - [Hitman World](https://unibrightonac-my.sharepoint.com/:p:/g/personal/m_evans14_uni_brighton_ac_uk/EbgZ4HTm8aJEsHSmd_HxI9cBOhIhw2thFIMkwwp7nSooEg)
+- [Psychological horror](https://urldefense.com/v3/__https://unibrightonac-my.sharepoint.com/:b:/g/personal/j_augustin1_uni_brighton_ac_uk/EQZWY5f8ivxPujGKr4hx8dMB9xBx5AZuslq-W--i0a5xuA__;!!IWcW7C1FDU-5!cy7gi2OWkuA_OC_q0rX8LqEj16hC0WplH8gOvz-R1a6pq2fd2eRJmdva2yiLi0FGp80GH55Dv9_pwmsLo9l68DZym8uNEY2bsqacJrA$)
 
